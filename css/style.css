@@ -4,6 +4,7 @@
 
 body { 
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin: 0px;
 }
 
 header { 
@@ -54,9 +55,12 @@ li a:hover:not(.active) {
 .content {
   padding-top: 30px;
   padding-bottom: 50px;
+  width: 70%;
   height: auto;
+  margin: auto;
 
 }
+
 .body {
   height: 1150px;
    background-image: url("../images/bg2.jpg");
@@ -68,8 +72,8 @@ li a:hover:not(.active) {
 
 .login {
   padding: 1px 0;
-  width: 50%;
-  margin:50px auto;
+  width: 40%;
+  margin:20px auto;
   text-align: center;
   background-color: white;
   border-radius: 10px;
@@ -144,10 +148,12 @@ footer p {
   color: white;
 }
 
+
 #Korisnici {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 80%;
+    margin: auto;
 }
 
 #Korisnici td, #Korisnici th {
