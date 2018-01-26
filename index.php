@@ -15,11 +15,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Mladen Milosavljevic">
-    <link rel="stylesheet" type="text/css" href="css/style2.css">
-    <link href="bootstrap.min.css" rel="stylesheet">
-    <link href="prettyPhoto.css" rel="stylesheet">
-    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
-    <link href="responsive.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
     <header>
