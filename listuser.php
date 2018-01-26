@@ -13,17 +13,6 @@
     $SecDataDisplay = $displaySec->getAllData();
    
 ?>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>PHP MVC LogIn</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="Mladen Milosavljevic">
-    <link rel="stylesheet" type="text/css" href="css/style2.css">
-</head>
-<body>
   <table id="Korisnici">
     <tr>
       <th>ID</th>
@@ -52,5 +41,3 @@
         }
     ?>
   </table>
-</body>
-</html>
