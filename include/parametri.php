@@ -2,5 +2,5 @@
     $host = "";
     $user = "";
     $password = "";
-    $db = "login";
+    $db = "";
 ?>
